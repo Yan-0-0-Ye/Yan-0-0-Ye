@@ -2,11 +2,11 @@
 - 
 - 我会在我的主页里记录我的学习笔记，并分享一些学习心得；
 
-- 😄 学习笔记放在这里：  [ZhiHu][here](https://www.zhihu.com/people/mang-guo-wei-de-tao-zi-21)
+- 😄 学习笔记放在这里：  [ZhiHu][here](https://www.zhihu.com/people/mang-guo-wei-de-tao-zi-21/posts)
 
 ### My Skill Set
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 <!---
