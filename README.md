@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Yan-0-0-Ye.
 -  
 - 我会在我的主页里记录我的学习笔记，并分享学习心得
-- 😄 学习笔记放在这里：  [ZhiHu][here](https://www.zhihu.com/people/mang-guo-wei-de-tao-zi-21/posts)
+- 😄 学习笔记：
+- [【Vins相关】](https://zhuanlan.zhihu.com/p/700462745)
+- [【矩阵论基础】](https://zhuanlan.zhihu.com/p/694590476)[【以及】](https://zhuanlan.zhihu.com/p/700757358)
 
 ### My Skill Set
 
