@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yan-0-0-Ye.
 -  
-- 我会在我的主页里记录我的学习笔记，并分享学习心得
-- 😄 学习笔记：
+- 我会在我的主页里分享我的学习笔记和心得：
+- 😄 ：
 - [【Vins相关】](https://zhuanlan.zhihu.com/p/700462745)
 - [【矩阵论基础】](https://zhuanlan.zhihu.com/p/694590476)[【以及】](https://zhuanlan.zhihu.com/p/700757358)
 - [【鱼眼相机成像基础&&内参标定】](https://zhuanlan.zhihu.com/p/693860029)
